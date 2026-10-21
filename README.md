@@ -17,7 +17,8 @@ Video-Enhancer is a project to enhance video delivery quality: making videos loo
 7. [Quick start with FFmpeg](#quick-start-with-ffmpeg)
 8. [Proposed pipeline (planned)](#proposed-pipeline-planned)
 9. [Roadmap](#roadmap)
-10. [Contributing](#contributing)
+10. [Contributors](#contributors)
+11. [Contributing](#contributing)
 
 ---
 
@@ -213,6 +214,13 @@ python inference_realesrgan_video.py -i input.mp4 -n realesr-animevideov3 -s 2 -
 - [ ] Simple web UI for uploading and comparing before/after
 
 ---
+
+## Contributors
+
+| | Name | GitHub |
+|---|---|---|
+| <img src="https://github.com/riteshtummalawork.png" width="40"> | Ritesh Tummala | [@riteshtummalawork](https://github.com/riteshtummalawork) |
+| <img src="https://github.com/krtk06.png" width="40"> | Kartheek Nistala | [@krtk06](https://github.com/krtk06) |
 
 ## Contributing
 
